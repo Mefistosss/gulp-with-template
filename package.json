@@ -1,0 +1,38 @@
+{
+  "name": "gulp-with-template",
+  "version": "1.0.0",
+  "description": "All files with one template",
+  "homepage": "https://github.com/Mefistosss/gulp-with-template",
+  "repository": "git@github.com:Mefistosss/gulp-with-template.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "lodash",
+    "underscore",
+    "template"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "author": {
+    "name": "Sergey Ponomarenko",
+    "email": "ponomarenkostheone@gmail.com",
+    "url": "https://github.com/Mefistosss"
+  },
+  "dependencies": {
+    "through2": "^3.0.0",
+    "lodash": "^4.17.11",
+    "plugin-error": "^1.0.1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.1",
+    "vinyl": "^2.2.0"
+  }
+}
