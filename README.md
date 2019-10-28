@@ -1,4 +1,4 @@
-# gulp-with-template
+# gulp-with-template [![Build Status](https://travis-ci.com/Mefistosss/gulp-with-template.svg?branch=master)](https://travis-ci.com/Mefistosss/gulp-with-template)
 
 ## Install
 
